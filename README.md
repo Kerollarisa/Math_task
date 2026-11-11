@@ -4,8 +4,8 @@ math-task/
 │   │   ├── Character.js
 │   │   ├── Magician.js
 │   │   ├── Daemon.js
-│   │   └── 
-│   │   └── index.js              
+│   │    
+│   │                 
 │   └── index.js
 ├── __tests__/
 │   └── math.test.js
